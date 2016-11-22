@@ -1,0 +1,8 @@
+C:\Users\Ilia\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\DoSomethingClient\bin\Debug\DoSomethingClient.exe.config
+C:\Users\Ilia\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\DoSomethingClient\bin\Debug\DoSomethingClient.exe
+C:\Users\Ilia\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\DoSomethingClient\bin\Debug\DoSomethingClient.pdb
+C:\Users\Ilia\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\DoSomethingClient\bin\Debug\MyInterfaces.dll
+C:\Users\Ilia\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\DoSomethingClient\bin\Debug\MyInterfaces.pdb
+C:\Users\Ilia\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\DoSomethingClient\obj\Debug\DoSomethingClient.csprojResolveAssemblyReference.cache
+C:\Users\Ilia\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\DoSomethingClient\obj\Debug\DoSomethingClient.exe
+C:\Users\Ilia\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\DoSomethingClient\obj\Debug\DoSomethingClient.pdb
